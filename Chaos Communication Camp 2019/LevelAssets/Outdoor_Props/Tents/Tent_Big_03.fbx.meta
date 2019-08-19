@@ -33,7 +33,22 @@ ModelImporter:
     4300004: Door_Left_03
     4300006: Door_Right_03
     4300008: Tent_Base_03
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Diffuse-Vertex
+    second: {fileID: 2100000, guid: 6086d770d2734a440ba7b90221d1f507, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Diffuse-Vertex-2sided
+    second: {fileID: 2100000, guid: 0ad0776072e4e41439eb46aa34fc114f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Glass-Vertex-2sided
+    second: {fileID: 2100000, guid: c3f07dd8408a3e54a83015acc1591de8, type: 2}
   materials:
     importMaterials: 1
     materialName: 1
@@ -73,7 +88,7 @@ ModelImporter:
     importCameras: 1
     importLights: 1
     swapUVChannels: 0
-    generateSecondaryUV: 0
+    generateSecondaryUV: 1
     useFileUnits: 1
     optimizeMeshForGPU: 1
     keepQuads: 0

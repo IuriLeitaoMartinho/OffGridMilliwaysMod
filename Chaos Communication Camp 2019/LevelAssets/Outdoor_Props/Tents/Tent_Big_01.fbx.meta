@@ -37,7 +37,17 @@ ModelImporter:
     4300006: Door_Front
     4300008: Door_Right
     4300010: Door_Left
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Diffuse-Vertex-2sided
+    second: {fileID: 2100000, guid: 0ad0776072e4e41439eb46aa34fc114f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: No Name
+    second: {fileID: 2100000, guid: 1349e1308d88f8640ac11c60cd81257f, type: 2}
   materials:
     importMaterials: 1
     materialName: 1
@@ -77,7 +87,7 @@ ModelImporter:
     importCameras: 1
     importLights: 1
     swapUVChannels: 0
-    generateSecondaryUV: 0
+    generateSecondaryUV: 1
     useFileUnits: 1
     optimizeMeshForGPU: 1
     keepQuads: 0
