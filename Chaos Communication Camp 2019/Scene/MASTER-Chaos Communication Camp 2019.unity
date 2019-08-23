@@ -8,8 +8,8 @@ OcclusionCullingSettings:
     smallestOccluder: 5
     smallestHole: 0.25
     backfaceThreshold: 100
-  m_SceneGUID: a663a97eb6f594256bb2526944cb6e81
-  m_OcclusionCullingData: {fileID: 36300000, guid: 0b2a9a428365448acb39c38cef56e443,
+  m_SceneGUID: a77f051fcc586b54d87c0485723c4363
+  m_OcclusionCullingData: {fileID: 36300000, guid: c6f30d74ce6f048498a5b0565b1fcf61,
     type: 2}
 --- !u!104 &2
 RenderSettings:
@@ -113,7 +113,7 @@ NavMeshSettings:
     accuratePlacement: 0
     debug:
       m_Flags: 0
-  m_NavMeshData: {fileID: 23800000, guid: d9a08e5fc8a8cda4baabed6d5f4ee8fc, type: 2}
+  m_NavMeshData: {fileID: 0}
 --- !u!1 &1682092
 GameObject:
   m_ObjectHideFlags: 0
@@ -4002,7 +4002,7 @@ Transform:
   m_LocalScale: {x: 1.6, y: 1, z: 1.6}
   m_Children: []
   m_Father: {fileID: 1441687033}
-  m_RootOrder: 5
+  m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 9, z: 0}
 --- !u!1001 &222667599
 PrefabInstance:
@@ -10387,7 +10387,7 @@ Transform:
   - {fileID: 285175494}
   - {fileID: 462270488}
   m_Father: {fileID: 1893052233}
-  m_RootOrder: 107
+  m_RootOrder: 84
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!43 &300909614
 Mesh:
@@ -32308,10 +32308,10 @@ Transform:
   m_Children:
   - {fileID: 383218673}
   - {fileID: 1200657749}
+  - {fileID: 219967486}
   - {fileID: 1233080878}
   - {fileID: 1242102263}
   - {fileID: 1990972821}
-  - {fileID: 219967486}
   - {fileID: 825602885}
   - {fileID: 1876561306}
   - {fileID: 2043995385}
@@ -40242,6 +40242,7 @@ Transform:
   - {fileID: 1083466887}
   - {fileID: 1023300721}
   - {fileID: 158405610}
+  - {fileID: 296259480}
   - {fileID: 357194499}
   - {fileID: 2078231553}
   - {fileID: 117351120}
@@ -40265,7 +40266,6 @@ Transform:
   - {fileID: 83568846}
   - {fileID: 1177964738}
   - {fileID: 850309965}
-  - {fileID: 296259480}
   - {fileID: 1605614631}
   - {fileID: 1380925230}
   - {fileID: 1790728742}

@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 2781020564
+CRC: 3186622201
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: f9c7049501f40e5b00b334805591cad0
+    Hash: af0059f16f89445a1ae8deb118d26131
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 54abc5239798e4307c1669e900070e8d
+    Hash: 1b03bb45a3524b202ca6be4d2ce51897
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -18,6 +18,8 @@ ClassTypes:
 - Class: 23
   Script: {instanceID: 0}
 - Class: 28
+  Script: {instanceID: 0}
+- Class: 29
   Script: {instanceID: 0}
 - Class: 33
   Script: {instanceID: 0}
@@ -77,8 +79,6 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 157
   Script: {instanceID: 0}
-- Class: 196
-  Script: {instanceID: 0}
 - Class: 213
   Script: {instanceID: 0}
 - Class: 215
@@ -93,9 +93,9 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 224
   Script: {instanceID: 0}
-- Class: 238
-  Script: {instanceID: 0}
 - Class: 258
+  Script: {instanceID: 0}
+- Class: 363
   Script: {instanceID: 0}
 Assets:
 - Assets/Levels/CCCamp 2019 Milliways/Chaos Communication Camp 2019/Scene/MASTER-Chaos
