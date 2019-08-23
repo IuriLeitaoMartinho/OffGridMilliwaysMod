@@ -1,15 +1,15 @@
 fileFormatVersion: 2
-guid: 48c159a71947065438e1b96b2ded776f
+guid: c1a59d45b9ba46949b9f4c0f8c22ad4a
 ModelImporter:
   serializedVersion: 23
   fileIDToRecycleName:
     100000: //RootNode
     400000: //RootNode
-    2100000: Specular-Mid-Vertex
+    2100000: Diffuse-Vertex
     2100002: Diffuse-Vertex-2sided
     2300000: //RootNode
     3300000: //RootNode
-    4300000: Circus_Tent_01
+    4300000: WatchTower_02
   externalObjects: {}
   materials:
     importMaterials: 1
