@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 2875522344
+CRC: 914979197
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: bd4411ccc69d5f7325f1d5321f0215e0
+    Hash: 86de9ec7974f08e321b8694daf6b5b56
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 1b03bb45a3524b202ca6be4d2ce51897
+    Hash: 796d42aa09e804015ae8d7ba7349da8f
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -38,19 +38,13 @@ ClassTypes:
 - Class: 108
   Script: {instanceID: 0}
 - Class: 114
+  Script: {fileID: 11500000, guid: 0cd44c1031e13a943bb63640046fad76, type: 3}
+- Class: 114
   Script: {fileID: 11500000, guid: adb84e30e02715445aeb9959894e3b4d, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 48a79b01ea5641d4aa6daa2e23605641, type: 3}
 - Class: 114
-  Script: {fileID: 1980459831, guid: f70555f144d8491a825f0804e09c671c, type: 3}
-- Class: 114
-  Script: {fileID: -619905303, guid: f70555f144d8491a825f0804e09c671c, type: 3}
-- Class: 114
-  Script: {fileID: 1301386320, guid: f70555f144d8491a825f0804e09c671c, type: 3}
-- Class: 114
-  Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
-- Class: 114
-  Script: {fileID: 1077351063, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+  Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 7a34fa72bd4185749832024e9c8010bf, type: 3}
 - Class: 114
@@ -58,9 +52,13 @@ ClassTypes:
 - Class: 114
   Script: {fileID: 11500000, guid: 8233d90336aea43098adf6dbabd606a2, type: 3}
 - Class: 114
+  Script: {fileID: 11500000, guid: 76c392e42b5098c458856cdf6ecaaaa1, type: 3}
+- Class: 114
   Script: {fileID: 11500000, guid: cac61ba5a654d784fa3c0b443570475a, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: b3f6f3f7c722b4544b97e3c75840aa33, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: dc42784cf147c0c48a680349fa168899, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 8bb88ceda3a1e474eadf845436a92286, type: 3}
 - Class: 114
@@ -70,16 +68,14 @@ ClassTypes:
 - Class: 114
   Script: {fileID: 11500000, guid: c1cb7e9e120078f43bce4f0b1be547a7, type: 3}
 - Class: 114
+  Script: {fileID: 11500000, guid: 4f231c4fb786f3946a6b90b886c48677, type: 3}
+- Class: 114
   Script: {fileID: 11500000, guid: cc9c1b6f4b15f2746bf6f3ef09b5c462, type: 3}
 - Class: 115
   Script: {instanceID: 0}
 - Class: 154
   Script: {instanceID: 0}
-- Class: 156
-  Script: {instanceID: 0}
 - Class: 157
-  Script: {instanceID: 0}
-- Class: 213
   Script: {instanceID: 0}
 - Class: 215
   Script: {instanceID: 0}
@@ -98,8 +94,8 @@ ClassTypes:
 - Class: 363
   Script: {instanceID: 0}
 Assets:
-- Assets/Levels/CCCamp 2019 Milliways/Chaos Communication Camp 2019/Scene/MASTER-Chaos
-  Communication Camp 2019.unity
+- Assets/Levels/MilliwaysMod/Chaos Communication Camp 2019/Scene/MASTER-Chaos Communication
+  Camp 2019.unity
 Dependencies:
-- D:/OffGrid/Off Grid - CCCamp2019Milliways/Assets/Levels/CCCamp 2019 Milliways/Chaos
+- D:/SteamLibrary/steamapps/common/Off Grid - LevelKit/Assets/Levels/MilliwaysMod/Chaos
   Communication Camp 2019/Bundles/offgrid_shaders
