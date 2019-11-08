@@ -19,6 +19,29 @@ mission = {
 			prefab = "player",
 			spawnpoint = "PlayerSpawn",
 		},
+		-- mcfly = {
+		-- 	displayName = "mc.fly",
+		-- 	internalName = "mcfly",
+		-- 	characterType = "enemy",
+		-- 	--prefab = "mcfly",
+		-- 	spawnpoint = "mcflySpawn",
+		-- },
+		laurilove = {
+			displayName = "nsh",
+			internalName = "lauri",
+			agent = "Guard.lua",
+			characterType = "enemy",
+			profile = "LauriLove",
+			prefab = "Masculine_Med_OpenShirt_Enemy",
+			patrolroute = {
+				points = {
+					"LauriPatrol01",
+					"LauriPatrol02",
+				},
+				cyclic = false,
+			},
+			spawnpoint = "mcflySpawn",
+		},
 	},
 
 -- Inventory items:
